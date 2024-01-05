@@ -4,8 +4,8 @@ let score = "aryan"
 // console.log(typeof(score));
 
 let valueInNumber = Number(score)
-// console.log(typeof valueInNumber);
-// console.log(valueInNumber);
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
 
 let newnumber = "aryan"
 
@@ -31,4 +31,4 @@ let str3 = str1 + str2
 console.log(str1 + " str2");
 console.log(str3);
 
-console.log(true+);
+// console.log(true+);
