@@ -29,16 +29,7 @@ myArr.unshift(9)
 // console.log(myArr.splice(0, 3));
 // console.log(myArr.join());
 
-const marvelHeroes = ["ironman", "superman", "batman"]
-const dcHeroes = ["blackjack", "loki", "thor"]
-// console.log(typeof marvelHeroes);
-// console.log(typeof dcHeroes);
 
-const allHeroes = marvelHeroes.concat(dcHeroes)
-console.log(allHeroes);
-
-const newHeroes = [...marvelHeroes,...dcHeroes]
-console.log(newHeroes);
 
 
 
