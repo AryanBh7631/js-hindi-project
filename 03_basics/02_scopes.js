@@ -47,17 +47,5 @@ const addtwo = function(num1){
     return num1 + 2
 }
 
-const user = {
-    username: "hitesh",
-    price: "999",
-    
-    welcomeMessage: function () {
-        console.log(`${this.username} , welcome to website`);
-        console.log(this);
-    }
-    
-}
-user.welcomeMessage()
-user.username = "sad"
-user.welcomeMessage()
-console.log(this);
+
+
