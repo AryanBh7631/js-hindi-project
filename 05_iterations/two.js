@@ -37,21 +37,22 @@
 //     index = index + 1
 // } while (index < 10);
 
-const myArray = ["four", "two", "three"]
-for (const key of myArray) {
-    console.log(key);
-}
+// const myArray = ["four", "two", "three"]
+// for (const key of myArray) {
+//     console.log(key);
+// }
 
 
-const myObject = {
-    name: "aryan",
-    age: 20,
-    location: "singheshwar asthan"
-}
 
-for (const key in myObject) {
-    console.log(key);
-}
+// const myObject = {
+//     name: "aryan",
+//     age: 20,
+//     location: "singheshwar-asthan"
+// }
+
+// for (const key in myObject) {
+//     console.log(key);
+// }
 
 
 // const arr = ["pen", "pencil", "book"]
@@ -60,33 +61,7 @@ for (const key in myObject) {
 //     console.log(val);
 // }
 
-const arr2 = [1, 2, 3, 4, 5]
 
-for (const samsung of arr2) {
-    console.log(samsung);
-}
-
-const namely = "aryan dotco"
-
-for (const key in namely) {
-    // if (key = "d") {
-    //     console.log("a detected");
-    // }
-    console.log(`Each greet is ${key}`);
-}
-
-const map = new Map()
-
-map.set('IN', "India")
-map.set('UN', "United Nation")
-map.set('USA', "United States of America")
-
-console.log(map);
-
-for (const [key, value] of map) {
-    console.log(key, ':-', value);
-
-}
 
 
 
