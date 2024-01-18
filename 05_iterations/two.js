@@ -55,12 +55,6 @@
 // }
 
 
-// const arr = ["pen", "pencil", "book"]
-
-// arr.forEach (function (val)) {
-//     console.log(val);
-// }
-
 
 
 
